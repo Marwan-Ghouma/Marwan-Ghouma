@@ -85,7 +85,7 @@ Hi, I'm Marwan Ghouma!
 <summary><b>⚡ Marwan-Ghouma's Stats</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/Marwan-Ghouma">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Marwan-Ghouma&show_icons=true" alt="Marwan-Ghouma">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Marwan-Ghouma" alt="Marwan-Ghouma">
 	</a>
