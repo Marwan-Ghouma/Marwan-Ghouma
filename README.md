@@ -7,20 +7,20 @@ Hi, I'm Marwan Ghouma!
 
 <br/>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+science+engineering+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Software+engineer" alt="Typing SVG" /></a>
 </p>
 
 <hr>
 
 <pre>
 💻 I am learning Full Stack Development and  Machine Learning 
-📚 Currently Final year student at the National school for computer science ,Ensi
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📚 Graduated by September 2023 from the National school for computer science ,Ensi
+📝 I have a strong interest in software development
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Machine learning for finance application
-🌟 Main languages: Python, Java, JavaScript
+🌟 Main languages: Python, c++, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> , this is <a href=["https://drive.google.com/file/d/1jECpyPAbO41T46M3n90u6FIIU1fq3Jo6/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>Software engineer position</b> 
 </pre>
 <hr>
 
@@ -50,11 +50,9 @@ Hi, I'm Marwan Ghouma!
    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
-   <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
    <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
    <img alt="React" src="https://img.shields.io/badge/React%20-%23150458.svg?logo=react&logoColor=white">
-   <img alt="Nodejs" src="https://img.shields.io/badge/Node%20-%23150458.svg?logo=nodedotjs&logoColor=white">
 </p>
 
 ### 🗄️ Databases 
